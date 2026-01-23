@@ -18,20 +18,20 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 - Grupo 3 (Miércoles): IA-1.3 
 <div align="center">
 
-|  Sesión  | Lab  | Grupo 1         | Grupo 2        | Grupo 3            |
-|:--------:|:-----:| :--------------- :| :--------------: | :------------------: |
-|    1     | 0    | Martes 3 Feb    | Lunes 2 Feb    | Miércoles 4 Feb    |
-|    2     | 1    | Martes 10 Feb   | Lunes 9 Feb    | Miércoles 11 Feb   |
-|    3     | 1    | Martes 24 Feb   | Lunes 23 Feb   | Miércoles 25 Feb   |
-|    4     | 2    | Martes 3 Marzo  | Lunes 2 Marzo  | Miércoles 4 Marzo  |
-|    5     | 2    | Martes 10 Marzo | Lunes 9 Marzo  | Miércoles 11 Marzo |
-|    6     | 2    | Martes 17 Marzo | Lunes 16 Marzo | Miércoles 18 Marzo |
-|    7     | 3    | Martes 24 Marzo | Lunes 23 Marzo | Miércoles 25 Marzo |
-|    8     | 3    | Martes 7 Abril  | Lunes 6 Abril  | Miércoles 8 Abril  |
-|    9     | 3    | Martes 14 Abril | Lunes 13 Abril | Miércoles 15 Abril |
-|    10    | 4    | Martes 21 Abril | Lunes 20 Abril | Miércoles 22 Abril |
-|    11    | 4    | Martes 28 Abril | Lunes 27 Abril | Miércoles 29 Abril |
-|    12    | 4    | Martes 5 Mayo   | Lunes 4 Mayo   | Miércoles 6 Mayo   |
+| Sesión | Lab |     Grupo 1     |    Grupo 2     |      Grupo 3       |
+|:------:|:---:|:---------------:|:--------------:|:------------------:|
+|   1    |  0  |  Martes 3 Feb   |  Lunes 2 Feb   |  Miércoles 4 Feb   |
+|   2    |  1  |  Martes 10 Feb  |  Lunes 9 Feb   |  Miércoles 11 Feb  |
+|   3    |  1  |  Martes 24 Feb  |  Lunes 23 Feb  |  Miércoles 25 Feb  |
+|   4    |  2  | Martes 3 Marzo  | Lunes 2 Marzo  | Miércoles 4 Marzo  |
+|   5    |  2  | Martes 10 Marzo | Lunes 9 Marzo  | Miércoles 11 Marzo |
+|   6    |  2  | Martes 17 Marzo | Lunes 16 Marzo | Miércoles 18 Marzo |
+|   7    |  3  | Martes 24 Marzo | Lunes 23 Marzo | Miércoles 25 Marzo |
+|   8    |  3  | Martes 7 Abril  | Lunes 6 Abril  | Miércoles 8 Abril  |
+|   9    |  3  | Martes 14 Abril | Lunes 13 Abril | Miércoles 15 Abril |
+|   10   |  4  | Martes 21 Abril | Lunes 20 Abril | Miércoles 22 Abril |
+|   11   |  4  | Martes 28 Abril | Lunes 27 Abril | Miércoles 29 Abril |
+|   12   |  4  |  Martes 5 Mayo  |  Lunes 4 Mayo  |  Miércoles 6 Mayo  |
 
 </div>
 
