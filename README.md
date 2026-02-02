@@ -76,7 +76,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 
 | LAB  |                 Enlace                  | Notas |
 |:----:|:---------------------------------------:|:-----:|
-| LAB0 | https://classroom.github.com/a/H4mEKrZk |       |
+| LAB0 | https://classroom.github.com/a/zHpHHiUu |       |
 | LAB1 |                                         |       |
 | LAB2 |                                         |       |
 | LAB3 |                                         |       |
@@ -121,7 +121,7 @@ Lo segundo, es desactivar las notificaciones de los GitHub Actions, ya que GitHu
 
 ### ¿Cómo empiezo una práctica?
 
-Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/fgDZGlsq
+Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/H4mEKrZk
 
 Lo primero que debemos hacer es seleccionar nuestro nombre entre la lista. **Mucho cuidado, ya que está parte solo la haremos una sola vez!**
 
