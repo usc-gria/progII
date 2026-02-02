@@ -60,13 +60,13 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 <summary>Grupo 1</summary>
 <br>
 
-| LAB  |                           Enlace                           |               Notas               |
-|:------:|:----------------------------------------------------------:|:---------------------------------:|
-| LAB0 |                  |                                   |
-| LAB1 |                     |                                   |
-| LAB2 |                     |  |
-| LAB3 |                     | |
-| LAB4 |                                                            |  |
+| LAB  |                 Enlace                  | Notas |
+|:----:|:---------------------------------------:|:-----:|
+| LAB0 | https://classroom.github.com/a/vJakJ_VA |       |
+| LAB1 |                                         |       |
+| LAB2 |                                         |       |
+| LAB3 |                                         |       |
+| LAB4 |                                         |       |
 
 </details>
 
@@ -137,12 +137,19 @@ A continuación se nos mostrará una imagen para aceptar la tarea, simplemente h
   <img src="./images/accept.png" />
 </p>
 
-
-Y nos deberá aparecer un mensaje como el siguiente diciendo que se ha creado el repositorio correctamente y un enlace. 
-**Hacemos click en el enlace que nos aparece, siempre empezará por "http://github.com/usc-gria". No hacemos click en "Open in Github Codespaces"**
-
+Una vez eso, debido a un problema actual en Github nos saldrá esta imagen
 <p align="center">
-  <img src="./images/created.png" />
+  <img src="./images/github_issue.png" />
+</p>
+
+Debemos ir a nuestro email (el que hayamos puesto de la cuenta de GitHub) y recibiremos esta invitation
+<p align="center">
+  <img src="./images/github_invitation.png" />
+</p>
+
+Hacemos click en "View Invitation" y la aceptamos como muestra esta imagen
+<p align="center">
+  <img src="./images/github_acceptance.png" />
 </p>
 
 
