@@ -76,7 +76,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 
 | LAB  |                 Enlace                  | Notas |
 |:----:|:---------------------------------------:|:-----:|
-| LAB0 | https://classroom.github.com/a/zHpHHiUu |       |
+| LAB0 | https://classroom.github.com/a/H4mEKrZk |       |
 | LAB1 |                                         |       |
 | LAB2 |                                         |       |
 | LAB3 |                                         |       |
