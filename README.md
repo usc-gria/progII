@@ -164,8 +164,9 @@ Una vez hacemos click, nos deberá salir una pantalla como la siguiente y este s
 
 Lo primero que debemos hacer es instalar dos herramienta que vamos a usar:
 
-1. Instalar GitHub Desktop, que puedes descargar aquí: https://central.github.com/deployments/desktop/desktop/latest/win32 
-2. Tener instalado VSCode, que puedes descargar aquí: https://code.visualstudio.com/download  o PyCharm: https://www.jetbrains.com/es-es/pycharm/ (con al cuenta de la universidad tiene acceso premium)
+1. (Opcional) Instalar Git, que puedes descargar aquí: https://git-scm.com/install/ 
+2. Instalar GitHub Desktop, que puedes descargar aquí: https://central.github.com/deployments/desktop/desktop/latest/win32
+3. Tener instalado VSCode, que puedes descargar aquí: https://code.visualstudio.com/download  o PyCharm: https://www.jetbrains.com/es-es/pycharm/ (con al cuenta de la universidad tiene acceso premium)
 
 A continuación debes seguir unos pasos muy sencillos. Ten en cuenta que las capturas de pantalla son hechas con la versión de Mac, por lo que las tuyas puede que sean algo diferentes.
 
