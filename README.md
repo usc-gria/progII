@@ -121,7 +121,7 @@ Lo segundo, es desactivar las notificaciones de los GitHub Actions, ya que GitHu
 
 ### ¿Cómo empiezo una práctica?
 
-Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/ytdKTYgn
+Vamos a usar de ejemplo nuestro particular "Hello World" Programing II Edition. Haz click en el siguiente enlace para empezar: https://classroom.github.com/a/Qvskn2rh
 
 Lo primero que debemos hacer es seleccionar nuestro nombre entre la lista. **Mucho cuidado, ya que está parte solo la haremos una sola vez!**
 
