@@ -112,7 +112,7 @@ Por lo tanto, **lo primero de todo es hacerte una cuenta en [GitHub](https://git
 
 *Aunque en realidad mi username es [`dachafra`](https://github.com/dachafra)
 
-Lo segundo, es desactivar las notificaciones de los GitHub Actions, ya que GitHub Classroom lanza muchos procesos para gestionar y organizar los respositorios. Para ello, arriba a la izquierda pulsa en tu perfil y en `Settings`. A cotinuación pulsa en `Notifications`, abajo de todo, en `System`, deja la configuración como se muestra a continuación.
+Lo segundo, es desactivar las notificaciones de los GitHub Actions, ya que GitHub Classroom lanza muchos procesos para gestionar y organizar los respositorios. Para ello, arriba a la derecha pulsa en tu perfil y en `Settings`. A cotinuación pulsa en `Notifications`, abajo de todo, en `System`, deja la configuración como se muestra a continuación.
 
 <p align="center">
   <img src="./images/settings.png" />
