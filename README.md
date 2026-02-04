@@ -88,13 +88,13 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 <summary>Grupo 3</summary>
 <br>
 
-| LAB  |                           Enlace                           |               Notas               |
-|:------:|:----------------------------------------------------------:|:---------------------------------:|
-| LAB0 |                  |                                   |
-| LAB1 |                     |                                   |
-| LAB2 |                     |  |
-| LAB3 |                     | |
-| LAB4 |                                                            |  |
+| LAB  |                 Enlace                  | Notas |
+|:----:|:---------------------------------------:|:-----:|
+| LAB0 | https://classroom.github.com/a/q6WShcmx |       |
+| LAB1 |                                         |       |
+| LAB2 |                                         |       |
+| LAB3 |                                         |       |
+| LAB4 |                                         |       |
 
 </details>
 
