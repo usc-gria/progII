@@ -23,3 +23,6 @@
 | Pardo Martínez, Carla                   |      |      |      |      |
 | Pasechnyk , Mykhailo                    |      |      |      |      |
 | Payno Míguez, Antón                     |      |      |      |      |
+
+> NP: No Presentado
+> ENE: Entregado No Evaluado

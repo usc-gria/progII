@@ -24,3 +24,6 @@
 | Vázquez González-Elipe, Pablo José |      |      |      |      |
 | Vázquez Pais, Brais                |      |      |      |      |
 | Vázquez Seoane, Mateo              |      |      |      |      |
+
+> NP: No Presentado
+> ENE: Entregado No Evaluado

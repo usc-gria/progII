@@ -23,3 +23,6 @@
 | Fernández Rey, Candela             |      |      |      |      |
 | Figueiro Díaz, Elena               |      |      |      |      |
 | Franco Tilve, Lucas                |      |      |      |      |
+
+> NP: No Presentado
+> ENE: Entregado No Evaluado
