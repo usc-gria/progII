@@ -5,10 +5,10 @@
 | García Fernández, Xurxo                 |      |      |      |      |
 | García Gómez, Iván Wenjie               |      |      |      |      |
 | González Rodríguez, Naia                |      |      |      |      |
-| González Sánchez, Jorge                 |      |      |      |      |
+| González Sánchez, Jorge                 |  C   |  C   |  C   |  C   |
 | Gravato Rodelgo, Ander                  |      |      |      |      |
-| Lamas Fernández, Raquel                 |      |      |      |      |
-| Landeira Rodríguez, Gonzalo             |      |      |      |      |
+| Lamas Fernández, Raquel                 |  C   |  C   |  C   |  C   |
+| Landeira Rodríguez, Gonzalo             |  C   |  C   |  C   |  C   |
 | Lim Quintas, Hugo Kai                   |      |      |      |      |
 | Llanes Martinez, Eva                    |      |      |      |      |
 | Lorenzo Vázquez, Juan Diego             |      |      |      |      |
@@ -18,11 +18,14 @@
 | Modroño Beires-dias, Carolina           |      |      |      |      |
 | Morrogh-bernard Pillado, Martín         |      |      |      |      |
 | Mosteiro Regueiro, Antón                |      |      |      |      |
-| Nóvoa Gil, Noe                          |      |      |      |      |
-| Otero Barriuso, Irene                   |      |      |      |      |
+| Nóvoa Gil, Noe                          |  C   |  C   |  C   |  C   |
+| Otero Barriuso, Irene                   |  C   |  C   |  C   |  C   |
 | Pardo Martínez, Carla                   |      |      |      |      |
 | Pasechnyk , Mykhailo                    |      |      |      |      |
 | Payno Míguez, Antón                     |      |      |      |      |
 
 > NP: No Presentado
+> 
 > ENE: Entregado No Evaluado
+> 
+> C: Convalidado

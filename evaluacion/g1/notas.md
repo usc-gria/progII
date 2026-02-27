@@ -9,7 +9,7 @@
 | Cacheda Fernández, Jesús           |      |      |      |      |
 | Cainzos Piñón, Pablo               |      |      |      |      |
 | Calvar Silva, Lia                  |      |      |      |      |
-| Calvo Pérez, Mauro                 |      |      |      |      |
+| Calvo Pérez, Mauro                 |  C   |  C   |  C   |  C   |
 | Campos Portela, Álvaro             |      |      |      |      |
 | Cernadas Mouriño, Xián             |      |      |      |      |
 | Costas García, Pedro               |      |      |      |      |
@@ -25,4 +25,7 @@
 | Franco Tilve, Lucas                |      |      |      |      |
 
 > NP: No Presentado
+> 
 > ENE: Entregado No Evaluado
+> 
+> C: Convalidado
