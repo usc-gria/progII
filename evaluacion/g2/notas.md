@@ -10,12 +10,12 @@
 | Landeira Rodríguez, Gonzalo             |  C   |  C   |  C   |  C   |
 | Lim Quintas, Hugo Kai                   | ENE  |      |      |      |
 | Llanes Martinez, Eva                    |  NP  |      |      |      |
-| Lorenzo Vázquez, Juan Diego             |  NP  |      |      |      |
+| Lorenzo Vázquez, Juan Diego             | 6.5  |      |      |      |
 | Martínez González, Mario                | 7.5  |      |      |      |
 | Meneses Domínguez, Brenda de la Caridad |  10  |      |      |      |
 | Miñambres Pardo, Samuel                 |  10  |      |      |      |
 | Modroño Beires-dias, Carolina           |  NP  |      |      |      |
-| Morrogh-bernard Pillado, Martín         |  NP  |      |      |      |
+| Morrogh-bernard Pillado, Martín         | 9.5  |      |      |      |
 | Mosteiro Regueiro, Antón                | 9.5  |      |      |      |
 | Nóvoa Gil, Noe                          |  C   |  C   |  C   |  C   |
 | Otero Barriuso, Irene                   |  C   |  C   |  C   |  C   |
