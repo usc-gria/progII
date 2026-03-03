@@ -40,7 +40,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 
 ### Fechas de entrega de las prácticas
 Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuenta que la entrega se hará a través de Github, no por el CV):
-> [!NOTE]
+> [!WARNING]
 > Recuerda que la hora de entrega es siempre las 11:55 AM, justo antes del comienzo de la práctica de ese día
 <div align="center">
 
