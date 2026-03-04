@@ -93,7 +93,7 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 |:----:|:---------------------------------------:|
 | LAB0 | https://classroom.github.com/a/q6WShcmx |       
 | LAB1 | https://classroom.github.com/a/jbwZY9bp |       
-| LAB2 |                                         |       
+| LAB2 | https://classroom.github.com/a/dqI5vxQH |       
 | LAB3 |                                         |       
 | LAB4 |                                         |       
 
