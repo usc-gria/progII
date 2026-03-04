@@ -99,6 +99,9 @@ En las siguientes tablas puedes encontrar el enlace a cada una de las prácticas
 
 </details>
 
+> [!IMPORTANT]  
+> Las notas se publicarán en el Campus Virtual, en el libro de cualificaciones
+
 ## Comienzo de las prácticas: ¿qué tengo que hacer?
 
 ### Github Classroom
