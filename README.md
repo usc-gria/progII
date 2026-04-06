@@ -41,7 +41,7 @@ Esta es la distribución de las clases, busca tu grupo y apúntalo:
 ### Fechas de entrega de las prácticas
 Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuenta que la entrega se hará a través de Github, no por el CV):
 > [!WARNING]
-> Recuerda que la hora de entrega es siempre las 11:55 AM, justo antes del comienzo de la práctica de ese día
+> Recuerda que la hora de entrega es siempre las 11:55 AM, justo antes del comienzo de la práctica de ese día, menos para la última práctica que será a las 23:55.
 <div align="center">
 
 | LAB |     Grupo 1     |           Grupo 2           |      Grupo 3       |
@@ -49,7 +49,7 @@ Te dejo también por aquí las fechas de las entregas de prácticas (ten en cuen
 | L1  | Martes 3 Marzo  | Lunes 2 Marzo  | Miércoles 4 Marzo  |
 | L2  | Martes 24 Marzo | Lunes 23 Marzo | Miércoles 25 Marzo |
 | L3  | Martes 21 Abril | Lunes 20 Abril | Miércoles 22 Abril |
-| L4  | Martes 5 Mayo   | Lunes 4 Mayo   | Miércoles 6 Mayo   |
+| L4  | Martes 12 Mayo   | Lunes 11 Mayo   | Miércoles 13 Mayo   |
 
 </div>
 
